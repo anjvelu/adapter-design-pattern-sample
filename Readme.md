@@ -13,3 +13,8 @@ Adapter design pattern allows objects with incompatible interfaces to collaborat
 
 ### Redis Adapter
 This class is responsible for adapting Redis functionality into the File interface.
+
+---
+
+### YouTube Link:
+(https://youtu.be/RpzIuPOF4SM)[https://youtu.be/RpzIuPOF4SM]
